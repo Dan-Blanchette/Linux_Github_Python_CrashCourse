@@ -1,0 +1,6 @@
+Sample_ID,Gene,Expression_Level,Tissue_Type,Species,Date_Collected
+ccbdc0ea-63d1-440a-9493-e7e902c75be4,Gene_41,468,Brain,Drosophila melanogaster,2024-02-07
+1da8fec6-7d84-41bc-88f2-1a0007b6099c,Gene_27,486,Heart,Homo sapiens,2024-05-21
+248d8699-c095-4cd4-ba5a-b8ae3a0dfa3e,Gene_37,507,Lung,Homo sapiens,2023-10-16
+97e65615-ac51-4ff9-8e9b-be89abf4b4e1,Gene_53,517,Kidney,Drosophila melanogaster,2023-07-06
+5d3cfc0c-f694-4bef-bf53-98eef6871baf,Gene_87,473,Liver,Mus musculus,2024-12-01
